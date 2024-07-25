@@ -3,7 +3,7 @@
 A mesmerizing Python script that generates a stunning, colorful hexagonal pattern using the Turtle graphics library. 
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube](https://youtu.be/d_-aNC68qy0))
+click on the link to see :- ([Open in Youtube](https://youtu.be/BJEpzsP_W-c))
 
 # Screenshot
 
